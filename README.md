@@ -34,7 +34,7 @@ The user interface is custom-built with a modern, clean aesthetic inspired by Ma
 - **Resource Center:** Access a curated list of helpful articles, contacts, and resources for mental wellness.
 
 ## Screenshots
-
+![1. Welcome](https://raw.githubusercontent.com/marjia999/Mental-Health-Tracker/main/screenshots/1.png)
 
 ## Tech Stack
 
