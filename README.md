@@ -35,6 +35,15 @@ The user interface is custom-built with a modern, clean aesthetic inspired by Ma
 
 ## Screenshots
 ![1. Welcome](https://raw.githubusercontent.com/marjia999/Mental-Health-Tracker/main/screenshots/1.png)
+![Verify](https://raw.githubusercontent.com/marjia999/Mental-Health-Tracker/main/screenshots/2.png)
+![email](https://raw.githubusercontent.com/marjia999/Mental-Health-Tracker/main/screenshots/0.png)
+![Dashboard](https://raw.githubusercontent.com/marjia999/Mental-Health-Tracker/main/screenshots/3.png)
+![Mood_Stress](https://raw.githubusercontent.com/marjia999/Mental-Health-Tracker/main/screenshots/4.png)
+![Journal](https://raw.githubusercontent.com/marjia999/Mental-Health-Tracker/main/screenshots/8.png)
+![Journal_nalysis](https://raw.githubusercontent.com/marjia999/Mental-Health-Tracker/main/screenshots/10.png)
+![assessment](https://raw.githubusercontent.com/marjia999/Mental-Health-Tracker/main/screenshots/12.png)
+![assessment_question](https://raw.githubusercontent.com/marjia999/Mental-Health-Tracker/main/screenshots/14.png)
+![resources](https://raw.githubusercontent.com/marjia999/Mental-Health-Tracker/main/screenshots/11.png)
 
 ## Tech Stack
 
