@@ -1,11 +1,7 @@
 # Mental-Health-Tracker
 
-# Mental Health Tracker
-
 ![Java](https://img.shields.io/badge/Java-23-blue.svg?style=for-the-badge&logo=java)
 ![MySQL](https://img.shields.io/badge/MySQL-8.0-orange.svg?style=for-the-badge&logo=mysql)
-![GitHub stars](https://img.shields.io/github/stars/YOUR_USERNAME/YOUR_REPO?style=for-the-badge)
-![GitHub license](https://img.shields.io/github/license/YOUR_USERNAME/YOUR_REPO?style=for-the-badge)
 
 A comprehensive Java-based desktop application designed to help users monitor, understand, and improve their mental well-being through daily tracking and journaling.
 
@@ -18,8 +14,6 @@ A comprehensive Java-based desktop application designed to help users monitor, u
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
 - [How It Works](#how-it-works)
-- [Contributing](#contributing)
-- [License](#license)
 - [Contact](#contact)
 
 ## About The Project
@@ -41,11 +35,6 @@ The user interface is custom-built with a modern, clean aesthetic inspired by Ma
 
 ## Screenshots
 
-*(Add screenshots of your application here to showcase the UI)*
-
-| Dashboard | Journal View |
-| :---: | :---: |
-| ![Dashboard Screenshot](URL_TO_YOUR_SCREENSHOT) | ![Journal Screenshot](URL_TO_YOUR_SCREENSHOT) |
 
 ## Tech Stack
 
@@ -59,6 +48,7 @@ This project is built using the following technologies:
   - `Stanford CoreNLP`: For Natural Language Processing and sentiment analysis.
   - `javax.mail`: For the email notification/reminder feature.
   - `joda-time`: For robust date and time handling.
+  - N.B: Download the stanford-corenlp-3.8.0-models.jar file.
 
 ## Getting Started
 
@@ -74,16 +64,12 @@ To get a local copy up and running, follow these simple steps.
 
 1.  **Clone the repository:**
     ```sh
-    git clone [https://github.com/YOUR_USERNAME/YOUR_REPO.git](https://github.com/YOUR_USERNAME/YOUR_REPO.git)
+    git clone https://github.com/marjia999/Mental-Health-Tracker.git
     ```
 
 2.  **Set up the Database:**
     - Open your MySQL client (e.g., MySQL Workbench, DBeaver).
     - Create a new database for the project.
-      ```sql
-      CREATE DATABASE mental_health_tracker;
-      ```
-    - *(Optional)* If you have a `.sql` schema file, import it into your new database.
 
 3.  **Configure Application:**
     - Open the project in your IDE.
@@ -107,22 +93,5 @@ The application follows a standard desktop application architecture. The user in
 
 The standout feature is the integration of Stanford CoreNLP. When a user saves a journal entry, the text is processed by the NLP pipeline to determine its overall sentiment (e.g., positive, neutral, negative), which is then stored and can be visualized to show trends over time.
 
-## Contributing
-
-Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
-1.  Fork the Project
-2.  Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3.  Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4.  Push to the Branch (`git push origin feature/AmazingFeature`)
-5.  Open a Pull Request
-
-## License
-
-Distributed under the MIT License. See `LICENSE` for more information.
-
 ## Contact
 
-Your Name - [@YourTwitterHandle](https://twitter.com/YourTwitterHandle) - your.email@example.com
-
-Project Link: [https://github.com/YOUR_USERNAME/YOUR_REPO](https://github.com/YOUR_USERNAME/YOUR_REPO)
