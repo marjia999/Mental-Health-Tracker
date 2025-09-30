@@ -102,8 +102,7 @@ The application follows a standard desktop application architecture. The user in
 
 The standout feature is the integration of Stanford CoreNLP. When a user saves a journal entry, the text is processed by the NLP pipeline to determine its overall sentiment (e.g., positive, neutral, negative), which is then stored and can be visualized to show trends over time.
 
-## Contact:
-Email: marjiakhatun.my@gmail.com
-
-LinkedIn: https://www.linkedin.com/in/marjia-khatun
+## Team members:
+Marjia Khatun, Email: marjiakhatun.my@gmail.com
+Afsana Hena, Email: afsanahena24@gmail.com
 
