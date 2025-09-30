@@ -5,6 +5,7 @@
 
 A comprehensive Java-based desktop application designed to help users monitor, understand, and improve their mental well-being through daily tracking and journaling.
 
+
 ## Table of Contents
 - [About The Project](#about-the-project)
 - [Key Features](#key-features)
