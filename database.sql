@@ -1,3 +1,5 @@
+USE tracker;
+
 //users
 CREATE TABLE `users` (
   `username` varchar(45) NOT NULL,
@@ -127,6 +129,7 @@ CREATE TABLE `user_daily_sentiment` (
   PRIMARY KEY (`id`),
   UNIQUE KEY `username` (`username`,`date`)
 ) ENGINE=InnoDB AUTO_INCREMENT=28 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci;
+
 
 
 
