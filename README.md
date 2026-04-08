@@ -50,7 +50,7 @@ This project is built using the following technologies:
 
 - **Core:** Java (JDK 23)
 - **Database:** MySQL
-- **UI Framework:** Java Swing with custom Material Design components.
+- **UI Framework:** Java Swing
 - **Key Libraries:**
   - `mysql-connector-j`: For database connectivity.
   - `Stanford CoreNLP`: For Natural Language Processing and sentiment analysis.
