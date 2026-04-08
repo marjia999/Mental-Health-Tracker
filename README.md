@@ -104,4 +104,3 @@ The standout feature is the integration of Stanford CoreNLP. When a user saves a
 ## Contact
 - **Email**: marjiakhatun.my@gmail.com
 - **LinkedIn**: https://www.linkedin.com/in/marjia-khatun/
-
