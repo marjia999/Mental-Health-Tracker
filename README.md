@@ -19,7 +19,7 @@ A comprehensive Java-based desktop application designed to help users monitor, u
 
 ## About The Project
 
-Mental Health Tracker is a secure, offline-first desktop application built with Java. It provides a private and safe space for users to record their thoughts, track their moods, and perform daily self-assessments. The project leverages Natural Language Processing (NLP) to provide insightful sentiment analysis on journal entries, helping users gain a deeper understanding of their emotional patterns.
+Mental Health Tracker is a desktop application built with Java. It provides a private and safe space for users to record their thoughts, track their moods, and perform daily self-assessments. The project leverages Natural Language Processing (NLP) to provide insightful sentiment analysis on journal entries, helping users gain a deeper understanding of their emotional patterns.
 
 The user interface is custom-built with a modern, clean aesthetic inspired by Material Design, ensuring a smooth and intuitive user experience.
 
